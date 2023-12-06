@@ -56,4 +56,4 @@ with col2:
  
     st.pyplot(fig)  
  
-st.caption('Copyright © Anugerah Agung Dwi Putra 2023')
+st.caption('Source : Copyright © Nugroho Adi Pramono 2023')
